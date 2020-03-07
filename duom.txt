@@ -1,0 +1,5 @@
+Alberas Kamiu       Kaligula      Kamiu leidykla      1944    18 500 
+Alberas Kamiu       Maras         Kamiu leidykla      1947    20 1000
+Francas Kafka       Metamorfoze   Kafkos leidykla     1915    12 750 
+Francas Kafka       Pilis         Kafkos leidykla     1921    15 1200
+Nicola Abbagnano    Pasaulis      Nicolos leidykla    1974    11 225 
