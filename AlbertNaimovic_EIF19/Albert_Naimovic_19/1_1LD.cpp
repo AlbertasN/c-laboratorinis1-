@@ -14,6 +14,15 @@ class knyga // aprasome kas bus klaseje
   double tirazas;
 
   public: // sukuriame settus 
+  knyga():autorius(""), pavadinimas(""), metai(0), leidykla(""), kaina(0), tirazas(0){}
+  knyga(string a, string p, int m, string l, double k, double t){
+    autorius=a;
+    pavadinimas=p;
+    metai=m;
+    leidykla=l;
+    kaina=k;
+    tirazas=t;
+  }
   void setAutorius(string a){autorius=a;}
   void setPavadinimas(string p){pavadinimas=p;}
   void setMetai(int m){metai=m;}
